@@ -1,6 +1,6 @@
 ![icon](https://user-images.githubusercontent.com/110092150/181596839-77dab6f9-642f-41df-81af-7cb8f2fb8cc6.png)
 
-# Stract v0.2
+# Stract
 The modpack is in active development and at the moment there are ready-made assemblies that you can download! 
 The modpack was created by Russian developer ivwdie. The modpack is completely free, but if you want, you can support the author with donationalerts, I will be grateful
 
