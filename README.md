@@ -4,6 +4,9 @@
 The modpack is in active development and at the moment there are ready-made assemblies that you can download! 
 The modpack was created by Russian developer ivwdie. The modpack is completely free, but if you want, you can support the author with donationalerts, I will be grateful
 
+# ! WARNING !
+At the moment, automatic installation works only on the standard path to .minecraft! IF you have your own path to .minecraft, install everything manually!
+
 ## Support
 
 Discord: ivwdie#3747
