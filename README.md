@@ -2,15 +2,15 @@
 The modpack is in active development and at the moment there are ready-made assemblies that you can download! 
 The modpack was created by Russian developer ivwdie. The modpack is completely free, but if you want, you can support the author with donationalerts, I will be grateful
 
-#Supported OS
+# Supported OS
 Unfortunately, only Windows OS 10 or higher is supported at the moment, but there are plans to add support for Linux and MacOS
 
-#Support
+# Support
 
 Discord: ivwdie#3747
 VK: https://vk.com/ivwdie
 
-#Recommended Settings
+# Recommended Settings
 
 OS: Windows 10 (or higher)
 Videocard: 1GB VRAM (or higher)
