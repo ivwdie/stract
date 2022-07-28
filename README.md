@@ -14,7 +14,7 @@ VK: https://vk.com/ivwdie
 
 # Recommended Settings
 
-- OS: Windows 10 (or higher)
+- OS: Windows 8.1 (or higher)
 - Videocard: 1GB VRAM (or higher)
 - RAM: 4GB (or higher)
 - Processor: 3 Core 2.7 GHz (or better)
